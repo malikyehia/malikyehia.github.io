@@ -1,2 +1,2 @@
 # malikyehia.github.io
-A compilation of academic and independent projects I have completed over the last few years.
+As I approach the final stretch of my Masters program in Data Science, I've compiled a selection of my most impactful academic projects along with independent work I've pursued over the past few years.
