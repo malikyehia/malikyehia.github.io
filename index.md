@@ -7,7 +7,7 @@ Welcome to my portfolio! Here’s a selection of projects showcasing my skills i
 
 ## 📊 Projects  
 
-### ⚾ 4th Down Decision Maker  
+### 🏈 4th Down Decision Maker  
 - **Tools:** SQL, R, Tableau
 - Built an end-to-end sports analytics model to make recommendations on 4th down play calls.  
 - [View Project Repository](https://github.com/malikyehia/NFL-4th-down-decision-maker)  
