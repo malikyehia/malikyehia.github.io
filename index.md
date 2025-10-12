@@ -14,7 +14,7 @@ Welcome to my portfolio! Here’s a selection of projects showcasing my skills i
 
 ---
 
-### 🚚 NBA Rookie Longevity Prediction Model
+### 🏀 NBA Rookie Longevity Prediction Model
 - **Tools:** R, Excel  
 - Built preditive models to determine which NBA rookies from the 2022 NBA draft class would last 5 years in the NBA.
 - [View Project Repository](https://github.com/malikyehia/NBA-Rookie-Predictive-Model)  
