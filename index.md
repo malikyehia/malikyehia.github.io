@@ -21,6 +21,13 @@ Welcome to my portfolio! Here’s a selection of projects showcasing my skills i
 
 ---
 
+### 🏀 University of Michigan - Dearborn Men's Basketball Pace Analysis
+- **Tools:** Google Sheets  
+- Conducted data analysis and visualization to demonstrate how the men's basketball team performs at different l
+- [View Project Repository](https://github.com/malikyehia/University-of-Michigan-Dearborn-Basketball-Pace)  
+
+---
+
 ## 🔗 Connect  
 - [LinkedIn](https://www.linkedin.com/in/malik-yehia/)  
 - [GitHub](https://github.com/malikyehia)  
