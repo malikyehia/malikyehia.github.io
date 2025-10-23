@@ -28,6 +28,14 @@ Welcome to my portfolio! Here’s a selection of projects showcasing my skills i
 
 ---
 
+### 🚗 Probability of Car Loan Charge Off - Logistic Regression Model
+- **Tools:** R Studio, SQL  
+- Conducted exploratory data analysis, and built logistic regression model to determine if a car loan in the Midwest region, is likely to be charged off.
+- [View Project Repository](https://github.com/malikyehia/Loan-Charge-Off-Predictive-Model) 
+
+---
+
+
 ## 🔗 Connect  
 - [LinkedIn](https://www.linkedin.com/in/malik-yehia/)  
 - [GitHub](https://github.com/malikyehia)  
