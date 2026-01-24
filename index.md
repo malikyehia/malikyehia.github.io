@@ -7,6 +7,13 @@ Welcome to my portfolio! Here’s a selection of projects showcasing my skills i
 
 ## 📊 Projects  
 
+### 🏀 NBA Defensive Player of the Year Prediction Model
+- **Tools:** Python. SQL
+- Built a predictive regression model using a random forest algorithm, to determine which NBA players are most likely to win the defensive player of the year award.
+- [View Project Repository](https://github.com/malikyehia/NBA-Defensive-Player-of-the-Year-Prediction-Model)  
+
+---
+
 ### 🏈 4th Down Decision Maker  
 - **Tools:** SQL, R Studio, Shiny, Tableau
 - Built an end-to-end sports analytics model to make recommendations on 4th down play calls.  
@@ -16,7 +23,7 @@ Welcome to my portfolio! Here’s a selection of projects showcasing my skills i
 
 ### 🏀 NBA Rookie Longevity Prediction Model
 - **Tools:** R Studio, Excel
-- Built preditive models to determine which NBA rookies from the 2022 NBA draft class would last 5 years in the NBA.
+- Built predictive models to determine which NBA rookies from the 2022 NBA draft class would last 5 years in the NBA.
 - [View Project Repository](https://github.com/malikyehia/NBA-Rookie-Predictive-Model)  
 
 ---
